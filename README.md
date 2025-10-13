@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hul0&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/hul0?style=for-the-badge&color=green)
 ![GitHub Stars](https://img.shields.io/github/stars/hul0?style=for-the-badge&color=yellow)
-![Years Coding](https://img.shields.io/badge/Years%20Coding-5%2B-blue?style=for-the-badge)
+![Years Coding](https://img.shields.io/badge/Years%20Coding-4%2B-blue?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=for-the-badge)
 
 </div>
@@ -23,7 +23,7 @@
 <td width="50%">
 
 #### 👨‍💻 Who I Am
-Full-Stack Architect and Cybersecurity Engineer building the future one commit at a time. I transform complex problems into elegant, scalable solutions.
+Full-Stack Architect and Cybersecurity Engineer. I transform complex problems into elegant, scalable solutions.
 
 #### 🎯 Current Mission
 Architecting distributed systems that scale seamlessly and securing applications against modern threats.
@@ -32,14 +32,14 @@ Architecting distributed systems that scale seamlessly and securing applications
 <td width="50%">
 
 #### 🛠️ Core Expertise
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Python, Go
-- **Mobile:** Android, Flutter, React Native
-- **DevOps:** Docker, Kubernetes, AWS
-- **Databases:** MongoDB, PostgreSQL, Redis
+- **Frontend:** HTML, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Python
+- **Mobile:** Kotlin & Jetpack Compose
+- **DevOps:** Docker, Kubernetes
+- **Databases:** MongoDB, PostgreSQL, Redis, MySQL
 
 #### ⚡ Philosophy
-Clean code, robust architecture, continuous learning
+Nothing Matters in the end!
 
 </td>
 </tr>
@@ -49,8 +49,8 @@ Clean code, robust architecture, continuous learning
 ### 🎯 Current Status
 
 ![Coding](https://img.shields.io/badge/Coding-Active-success?style=flat-square&logo=visualstudiocode)
-![Learning](https://img.shields.io/badge/Learning-AI%2FML-orange?style=flat-square&logo=python)
-![Building](https://img.shields.io/badge/Building-Microservices-blue?style=flat-square&logo=docker)
+![Learning](https://img.shields.io/badge/Learning-Cybersecurity-orange?style=flat-square&logo=linux)
+![Building](https://img.shields.io/badge/Building-Tools-blue?style=flat-square&logo=docker)
 ![Reading](https://img.shields.io/badge/Reading-Tech%20Blogs-red?style=flat-square&logo=medium)
 
 </div>
@@ -63,14 +63,14 @@ Clean code, robust architecture, continuous learning
 
 ### Languages & Frameworks
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Advanced-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-INTERMEDIATE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-BEGINNER-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-INTERMEDIATE-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-LEARNING-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-INTERMEDIATE-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-LEARNING-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-BEGINNER-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <table>
@@ -112,16 +112,16 @@ Clean code, robust architecture, continuous learning
 
 ### Frontend Development
 
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-Advanced-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-INTERMEDIATE-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-INTERMEDIATE-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-INTERMEDIATE-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-BEGINNER-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-BEGINNER-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-Advanced-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-INTERMEDIATE-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ![Sass](https://img.shields.io/badge/Sass-BEGINNER-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
+<!-- [Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux&logoColor=white)  -->
+<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-Intermediate-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) -->
 
 <table>
 <tr>
