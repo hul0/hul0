@@ -161,7 +161,7 @@ Nothing Matters in the end!
 </table>
 
 ### Backend & Databases
-
+<!-- 
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Expert-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -170,7 +170,7 @@ Nothing Matters in the end!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
 
 <table>
 <tr>
@@ -210,7 +210,7 @@ Nothing Matters in the end!
 </table>
 
 ### Cloud & DevOps
-
+<!-- 
 ![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Advanced-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -220,7 +220,7 @@ Nothing Matters in the end!
 ![Nginx](https://img.shields.io/badge/Nginx-Advanced-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Intermediate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) -->
 
 <table>
 <tr>
@@ -232,14 +232,14 @@ Nothing Matters in the end!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
 <br>Kubernetes
 </td>
-<td align="center" width="96">
+<!-- <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="48" height="48" alt="AWS" />
 <br>AWS
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
 <br>Azure
-</td>
+</td> -->
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
 <br>GCP
@@ -251,22 +251,22 @@ Nothing Matters in the end!
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
 <br>Nginx
-</td>
+<!-- </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
 <br>Grafana
-</td>
+</td> -->
 </tr>
 </table>
 
 ### Mobile & Game Development
-
+<!-- 
 ![Android](https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Advanced-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-Intermediate-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-Learning-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-Learning-000000?style=for-the-badge&logo=unity&logoColor=white) -->
 
 <table>
 <tr>
@@ -275,8 +275,8 @@ Nothing Matters in the end!
 <br>Android
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-<br>Flutter
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Flutter" />
+<br>Kotlin
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="48" height="48" alt="Jetpack Compose" />
@@ -294,17 +294,17 @@ Nothing Matters in the end!
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-Advanced-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!-- ![Jest](https://img.shields.io/badge/Jest-Advanced-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 ![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-Advanced-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+<!-- ![Webpack](https://img.shields.io/badge/Webpack-Advanced-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) -->
 ![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-Advanced-019733?style=for-the-badge&logo=vim&logoColor=white)
+<!-- ![Vim](https://img.shields.io/badge/Vim-Advanced-019733?style=for-the-badge&logo=vim&logoColor=white) -->
 
 </div>
 
 ---
 
-## 🎖️ Certifications & Achievements
+<!-- ## 🎖️ Certifications & Achievements
 
 <div align="center">
 
@@ -319,9 +319,9 @@ Nothing Matters in the end!
 ![CodeChef](https://img.shields.io/badge/CodeChef-5_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 📊 GitHub Statistics
 
@@ -342,11 +342,11 @@ Nothing Matters in the end!
 
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-10K%2B-blue?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-500%2B-green?style=for-the-badge)
-![Code Reviews](https://img.shields.io/badge/Code_Reviews-300%2B-orange?style=for-the-badge)
+![Total Commits](https://img.shields.io/badge/Total_Commits-400%2B-blue?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-5%2B-green?style=for-the-badge)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-30%2B-orange?style=for-the-badge)
 ![Repositories](https://img.shields.io/badge/Repositories-50%2B-purple?style=for-the-badge)
-![Issues Resolved](https://img.shields.io/badge/Issues_Resolved-400%2B-red?style=for-the-badge)
+![Issues Resolved](https://img.shields.io/badge/Issues_Resolved-300%2B-red?style=for-the-badge)
 
 </div>
 
@@ -365,14 +365,14 @@ Nothing Matters in the end!
 <div align="center">
 
 ![Commits This Week](https://img.shields.io/badge/Commits_This_Week-45-brightgreen?style=for-the-badge)
-![Lines of Code](https://img.shields.io/badge/Lines_of_Code-500K%2B-blue?style=for-the-badge)
+![Lines of Code](https://img.shields.io/badge/Lines_of_Code-50K%2B-blue?style=for-the-badge)
 ![Projects Completed](https://img.shields.io/badge/Projects_Completed-30%2B-yellow?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source_Contributions-200%2B-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source_Contributions-20%2B-orange?style=for-the-badge)
 
 </div>
 
 ---
-
+<!-- 
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -384,27 +384,27 @@ Nothing Matters in the end!
 
 </div>
 
----
+--- -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hul0) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hul0) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hulo) 
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hul0) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hul0) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@hul0) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@hul0biral) 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hul0) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hul0) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/0x00hulo) 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hul0)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hul0)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/hul0)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@hul0)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/hul0) -->
+[![Hashnode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hul0)
 
 </div>
 
 ---
-
+<!-- 
 ## 💰 Support My Work
 
 <div align="center">
@@ -425,9 +425,9 @@ Nothing Matters in the end!
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 <div align="center">
 
