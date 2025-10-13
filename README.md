@@ -8,7 +8,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/hul0?style=for-the-badge&color=green)
 ![GitHub Stars](https://img.shields.io/github/stars/hul0?style=for-the-badge&color=yellow)
 ![Years Coding](https://img.shields.io/badge/Years%20Coding-4%2B-blue?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Cybersecurity-Enthusiast-brightgreen?style=for-the-badge)
 
 </div>
 
