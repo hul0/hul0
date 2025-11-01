@@ -10,6 +10,7 @@
 ![Years Coding](https://img.shields.io/badge/Years%20Coding-4%2B-blue?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Cybersecurity-Enthusiast-brightgreen?style=for-the-badge)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/hulo.png" alt="Your Image Badge" />
 </div>
 
 ---
