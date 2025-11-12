@@ -36,11 +36,11 @@ Architecting distributed systems that scale seamlessly and securing applications
 - **Frontend:** HTML, React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Python
 - **Mobile:** Kotlin & Jetpack Compose
-- **DevOps:** Docker, Kubernetes
+- **DevOps:** Docker (started)
 - **Databases:** MongoDB, PostgreSQL, Redis, MySQL
 
 #### ⚡ Philosophy
-Nothing Matters in the end!
+None
 
 </td>
 </tr>
@@ -67,10 +67,8 @@ Nothing Matters in the end!
 ![JavaScript](https://img.shields.io/badge/JavaScript-INTERMEDIATE-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-BEGINNER-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-INTERMEDIATE-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-LEARNING-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-INTERMEDIATE-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-LEARNING-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-BEGINNER-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white)
 
