@@ -1,122 +1,183 @@
 <div align="center">
 
-# Hii
+# 👋 Hey there, I'm a human who codes
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+things+that+matter;Learning+in+public;Curiosity+over+credentials;Progress+over+perfection" alt="Typing SVG" />
 
-## 📊 GitHub Statistics
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hul0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hul0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+### 💭 Philosophy
+
 </div>
 
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│  "Technology should bring us closer to what makes us    │
+│   human, not further from it."                          │
+└─────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hul0&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+## 🎯 What Drives Me
+
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 **Mindset**
+> Building things that **matter** over things that **impress**
+
+> **Curiosity** over credentialism
+
+> **Kindness** over cleverness
+
+> **Process** over portfolio
+
+</td>
+<td width="50%">
+
+### 🔥 **Current Focus**
+- 🎨 Human-centered design
+- 🤝 Open collaboration  
+- 🌱 Sustainable solutions
+- 📢 Learning in public
+- 🔍 Asking better questions
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hul0&theme=dracula&hide_border=false&area=true" alt="Activity Graph" />
+
+## 🌟 What I'm Interested In
+
 </div>
 
-### 📈 Contribution Metrics
+```mermaid
+mindmap
+  root((Me))
+    Human-Centered Tech
+      Accessibility
+      Intuitive Design
+      Real Problems
+    Open Source
+      Collaboration
+      Community
+      Knowledge Sharing
+    Learning
+      New Domains
+      Fresh Perspectives
+      Experiments
+    Impact
+      Helping Others
+      Meaningful Work
+      Sustainable Code
+```
 
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-400%2B-blue?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-5%2B-green?style=for-the-badge)
-![Code Reviews](https://img.shields.io/badge/Code_Reviews-30%2B-orange?style=for-the-badge)
-![Repositories](https://img.shields.io/badge/Repositories-50%2B-purple?style=for-the-badge)
-![Issues Resolved](https://img.shields.io/badge/Issues_Resolved-300%2B-red?style=for-the-badge)
+## 🚀 Working Toward
+
+</div>
+
+<details>
+<summary><b>🎯 Short Term Goals</b></summary>
+<br>
+
+- 🧪 Building things that are **genuinely useful**, not just technically interesting
+- 💬 Communicating ideas clearly without unnecessary jargon  
+- 🗑️ Knowing when to **delete code** instead of adding more
+- 🤔 Understanding the **human side** of technical problems
+
+</details>
+
+<details>
+<summary><b>🌍 Long Term Vision</b></summary>
+<br>
+
+Contributing to a future where technology feels less like a **race** and more like a **conversation**.
+
+Where we measure success by:
+- ✨ Problems we solve
+- 🤝 People we help  
+- 💡 Ideas we share
+
+Not by:
+- ❌ Metrics we optimize
+- ❌ Complexity we achieve
+- ❌ Competition we win
+
+</details>
+
+---
+
+<div align="center">
+
+## 🎨 Current Vibe
+
+</div>
+
+```python
+class CurrentMindset:
+    def __init__(self):
+        self.focus = "intentional creation"
+        self.priority = "what will be good" > "what will look good"
+        self.approach = "follow curiosity, not checklists"
+        self.acceptance = "some days succeed, some don't - that's okay"
+    
+    def collaborate(self, you):
+        if you.values.align_with(self.values):
+            return "Let's build something meaningful together! 🚀"
+```
+
+---
+
+<div align="center">
+
+### 📊 My Development Philosophy in Numbers
+
+![Progress](https://img.shields.io/badge/Progress-100%25-6366F1?style=for-the-badge&logo=target&logoColor=white)
+![Perfection](https://img.shields.io/badge/Perfection-0%25-gray?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+![Curiosity](https://img.shields.io/badge/Curiosity-∞-EC4899?style=for-the-badge&logo=telescope&logoColor=white)
+![Ego](https://img.shields.io/badge/Ego-Minimal-10B981?style=for-the-badge&logo=minimize&logoColor=white)
+
+![Collaboration](https://img.shields.io/badge/Collaboration-Always-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white)
+![Competition](https://img.shields.io/badge/Competition-Not%20interested-gray?style=for-the-badge&logo=trophy&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hul0&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
+
+## 💬 Why I'm Here
+
+> *Every repository is a **conversation***  
+> *Every pull request is an **opportunity to learn***  
+> *Every issue is a chance to **help or ask for help***
+
+**I'm here to collaborate, not compete.**  
+**To explore, not perform.**  
+**To build together, not build alone.**
 
 ---
 
-## 🔥 Streak & Activity Stats
+### 🤝 Let's Connect
 
-<div align="center">
+If you believe in building things that matter over things that trend,  
+If you value **learning** over looking good,  
+If you want to create something **meaningful** together...
 
-![Commits This Week](https://img.shields.io/badge/Commits_This_Week-45-brightgreen?style=for-the-badge)
-![Lines of Code](https://img.shields.io/badge/Lines_of_Code-50K%2B-blue?style=for-the-badge)
-![Projects Completed](https://img.shields.io/badge/Projects_Completed-30%2B-yellow?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source_Contributions-20%2B-orange?style=for-the-badge)
-
-</div>
-
----
-<!-- 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://img.shields.io/badge/Project-Microservice_Framework-blueviolet?style=for-the-badge&logo=github)](https://github.com/hul0)
-[![Project 2](https://img.shields.io/badge/Project-AI_Chat_Platform-blue?style=for-the-badge&logo=github)](https://github.com/hul0)
-[![Project 3](https://img.shields.io/badge/Project-E--Commerce_System-green?style=for-the-badge&logo=github)](https://github.com/hul0)
-[![Project 4](https://img.shields.io/badge/Project-DevOps_Toolkit-orange?style=for-the-badge&logo=github)](https://github.com/hul0)
-
-</div>
-
---- -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hulo) 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hul0) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hul0) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@hul0biral) 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hul0) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/0x00hulo) 
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hul0)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hul0)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/hul0) -->
-[![Hashnode](https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hul0)
-
-</div>
-
----
-<!-- 
-## 💰 Support My Work
-
-<div align="center">
-
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hul0) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hul0) 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hul0)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/hul0)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hul0)
-
-</div>
+**Let's chat.** 💭
 
 ---
 
-## 😂 Random Dev Meme
-
-<div align="center">
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</div> -->
-
-<!-- --- -->
-
-<div align="center">
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-![Built with Love](https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge)
-![Made with Passion](https://img.shields.io/badge/Made%20with-Passion-orange?style=for-the-badge)
-
-⭐️ From [hul0](https://github.com/hul0) | Last Updated: 2025
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
