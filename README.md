@@ -1,12 +1,12 @@
-<div align="center">
+<div >
 
-# 👋 Hey there, I'm a human who codes
+# Hey! When do you think a person dies?
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+things+that+matter;Learning+in+public;Curiosity+over+credentials;Progress+over+perfection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=6366F1&center=true&vCenter=true&width=735&lines=When+a+bullet from a pistol pierces his heart?;When+he+is attacked by a incurable disease?;When he eats a soup of deadly poisonous mushroom?" alt="Typing SVG" />
 
 ---
 
-### 💭 Philosophy
+### A Man Dies When People Forget Him
 
 </div>
 
@@ -17,131 +17,90 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
+<div>
 
-## 🎯 What Drives Me
+## I Will Never Stop, Because
 
-</div>
+> Linus Didn't   
+> Terry Didn't   
+> Luffy Didn't
 
-<table>
-<tr>
-<td width="50%">
+The day i stop following my passion will be the day i am not alive anymore.    
 
-### 🧠 **Mindset**
-> Building things that **matter** over things that **impress**
-
-> **Curiosity** over credentialism
-
-> **Kindness** over cleverness
-
-> **Process** over portfolio
-
-</td>
-<td width="50%">
-
-### 🔥 **Current Focus**
-- 🎨 Human-centered design
-- 🤝 Open collaboration  
-- 🌱 Sustainable solutions
-- 📢 Learning in public
-- 🔍 Asking better questions
-
-</td>
-</tr>
-</table>
 
 ---
+<div >
 
-<div align="center">
 
-## 🌟 What I'm Interested In
+## He who has a why to live, can bear almost any how
 
 </div>
 
-```mermaid
-mindmap
-  root((Me))
-    Human-Centered Tech
-      Accessibility
-      Intuitive Design
-      Real Problems
-    Open Source
-      Collaboration
-      Community
-      Knowledge Sharing
-    Learning
-      New Domains
-      Fresh Perspectives
-      Experiments
-    Impact
-      Helping Others
-      Meaningful Work
-      Sustainable Code
-```
+I Like to :
+- Build what i imagine & what i need
+- Learn cybersecurity
+- Learn new things
 
-<div align="center">
+<div >
 
-## 🚀 Working Toward
+## Motivations
 
 </div>
 
 <details>
-<summary><b>🎯 Short Term Goals</b></summary>
+<summary><b>Short Term Goals</b></summary>
 <br>
 
-- 🧪 Building things that are **genuinely useful**, not just technically interesting
-- 💬 Communicating ideas clearly without unnecessary jargon  
-- 🗑️ Knowing when to **delete code** instead of adding more
-- 🤔 Understanding the **human side** of technical problems
+- Building things that are genuinely useful, not just technically interesting
+- Communicating ideas clearly without unnecessary jargon  
+- Knowing when to delete code instead of adding more
+- Understanding the human side of technical problems
 
 </details>
 
 <details>
-<summary><b>🌍 Long Term Vision</b></summary>
+<summary><b>Long Term Vision</b></summary>
 <br>
 
-Contributing to a future where technology feels less like a **race** and more like a **conversation**.
+Contributing to a future where technology feels less like a race and more like a conversation.
 
-Where we measure success by:
-- ✨ Problems we solve
-- 🤝 People we help  
-- 💡 Ideas we share
+In search of a happy nation where we measure success by:
+- Problems we solve
+- People we help  
+- Ideas we share
 
 Not by:
-- ❌ Metrics we optimize
-- ❌ Complexity we achieve
-- ❌ Competition we win
+-  Metrics we optimize
+-  Medals we achieve
+-  Competition we win
 
 </details>
 
 ---
 
-<div align="center">
+<div >
 
-## 🎨 Current Vibe
+## Technologies I like to use
 
 </div>
 
-```python
-class CurrentMindset:
-    def __init__(self):
-        self.focus = "intentional creation"
-        self.priority = "what will be good" > "what will look good"
-        self.approach = "follow curiosity, not checklists"
-        self.acceptance = "some days succeed, some don't - that's okay"
-    
-    def collaborate(self, you):
-        if you.values.align_with(self.values):
-            return "Let's build something meaningful together! 🚀"
-```
+- C/C++
+- Rust
+- TS
+- Linux
+- VSCode
 
+### Focus :
+- Cyber security
+- DSA
+- Building my own language, kernel, shell, OS
 ---
 
-<div align="center">
+<div >
 
-### 📊 My Development Philosophy in Numbers
+### Philosphy
 
-![Progress](https://img.shields.io/badge/Progress-100%25-6366F1?style=for-the-badge&logo=target&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-10%25-6366F1?style=for-the-badge&logo=target&logoColor=white)
 ![Perfection](https://img.shields.io/badge/Perfection-0%25-gray?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ![Curiosity](https://img.shields.io/badge/Curiosity-∞-EC4899?style=for-the-badge&logo=telescope&logoColor=white)
@@ -154,21 +113,9 @@ class CurrentMindset:
 
 ---
 
-<div align="center">
 
-## 💬 Why I'm Here
 
-> *Every repository is a **conversation***  
-> *Every pull request is an **opportunity to learn***  
-> *Every issue is a chance to **help or ask for help***
-
-**I'm here to collaborate, not compete.**  
-**To explore, not perform.**  
-**To build together, not build alone.**
-
----
-
-### 🤝 Let's Connect
+### Let's Connect 🤝
 
 If you believe in building things that matter over things that trend,  
 If you value **learning** over looking good,  
