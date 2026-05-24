@@ -17,20 +17,6 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<div>
-
-## I Will Never Stop, Because
-
-> Linus Didn't   
-> Terry Didn't   
-> Luffy Didn't
-
-The day i stop following my passion will be the day i am not alive anymore.    
-
-
----
-<div >
-
 
 ## He who has a why to live, can bear almost any how
 
@@ -38,7 +24,7 @@ The day i stop following my passion will be the day i am not alive anymore.
 
 I Like to :
 - Build what i imagine & what i need
-- Learn cybersecurity
+- Practice cybersecurity
 - Learn new things
 
 <div >
