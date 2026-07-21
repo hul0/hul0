@@ -1,116 +1,71 @@
-<div >
+<div align="center">
 
-# Hey! When do you think a person dies?
+# Hello, I'm Rupam
+### Computer Science Student · Systems & Security
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=6366F1&center=true&vCenter=true&width=735&lines=When+a+bullet from a pistol pierces his heart?;When+he+is attacked by a incurable disease?;When he eats a soup of deadly poisonous mushroom?" alt="Typing SVG" />
-
----
-
-### A Man Dies When People Forget Him
-
-</div>
-
-```ascii
-┌─────────────────────────────────────────────────────────┐
-│  "Technology should bring us closer to what makes us    │
-│   human, not further from it."                          │
-└─────────────────────────────────────────────────────────┘
-```
-
-
-## He who has a why to live, can bear almost any how
+[![Resume](https://img.shields.io/badge/Resume-View-333333?style=flat-square&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+[![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hulo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
-I Like to :
-- Build what i imagine & what i need
-- Practice cybersecurity
-- Learn new things
-
-<div >
-
-## Motivations
-
-</div>
-
-<details>
-<summary><b>Short Term Goals</b></summary>
 <br>
 
-- Building things that are genuinely useful, not just technically interesting
-- Communicating ideas clearly without unnecessary jargon  
-- Knowing when to delete code instead of adding more
-- Understanding the human side of technical problems
+## About
 
-</details>
+> "Technology should bring us closer to what makes us human, not further from it."
 
-<details>
-<summary><b>Long Term Vision</b></summary>
+I build things I imagine and things I need. I practice cybersecurity, study systems from the ground up, and enjoy understanding the human side of technical problems.
+
+**Currently focused on:**
+- Cybersecurity
+- Data Structures & Algorithms
+- Building my own language, kernel, and shell
+
 <br>
 
-Contributing to a future where technology feels less like a race and more like a conversation.
+## Technical Skills
 
-In search of a happy nation where we measure success by:
-- Problems we solve
-- People we help  
-- Ideas we share
+**Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Not by:
--  Metrics we optimize
--  Medals we achieve
--  Competition we win
+**Tools & Environment**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</details>
+<br>
 
----
+## GitHub Overview
 
-<div >
+<div align="center">
 
-## Technologies I like to use
-
-</div>
-
-- C/C++
-- Rust
-- TS
-- Linux
-- VSCode
-
-### Focus :
-- Cyber security
-- DSA
-- Building my own language, kernel, shell, OS
----
-
-<div >
-
-### Philosphy
-
-![Progress](https://img.shields.io/badge/Progress-10%25-6366F1?style=for-the-badge&logo=target&logoColor=white)
-![Perfection](https://img.shields.io/badge/Perfection-0%25-gray?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-![Curiosity](https://img.shields.io/badge/Curiosity-∞-EC4899?style=for-the-badge&logo=telescope&logoColor=white)
-![Ego](https://img.shields.io/badge/Ego-Minimal-10B981?style=for-the-badge&logo=minimize&logoColor=white)
-
-![Collaboration](https://img.shields.io/badge/Collaboration-Always-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white)
-![Competition](https://img.shields.io/badge/Competition-Not%20interested-gray?style=for-the-badge&logo=trophy&logoColor=white)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=hul0&show_icons=true&theme=default&hide_border=true&title_color=333333&icon_color=555555&text_color=333333" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hul0&layout=compact&theme=default&hide_border=true&title_color=333333&text_color=333333" />
 
 </div>
 
----
+<br>
 
+## Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [Project Name](https://github.com/hul0/project) | One-line description of what it does and why it exists | Rust, Linux |
+| [Project Name](https://github.com/hul0/project) | One-line description of what it does and why it exists | C, Assembly |
+| [Project Name](https://github.com/hul0/project) | One-line description of what it does and why it exists | TypeScript |
 
-### Let's Connect 🤝
+<br>
 
-If you believe in building things that matter over things that trend,  
-If you value **learning** over looking good,  
-If you want to create something **meaningful** together...
+## Get in Touch
 
-**Let's chat.** 💭
+If you're working on something that values learning over looking good, and building things that matter over things that trend — I'd like to hear about it.
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![Resume](https://img.shields.io/badge/Resume-View-333333?style=flat-square&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
+[![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
